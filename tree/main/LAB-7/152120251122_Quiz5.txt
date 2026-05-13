@@ -1,0 +1,3 @@
+Number: 152120251122
+Sensor INdex Used in the Process: 22
+First Temp: 31 -> New Temp: 53
